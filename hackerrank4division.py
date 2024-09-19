@@ -3,3 +3,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> a=int(input())
 ... b=int(input())
 ... print(a//b)
+... print(a/b)
